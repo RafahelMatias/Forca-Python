@@ -1,4 +1,4 @@
-# Feito Por: Rafahel Costa dos Santos Matias
+# Feito Por: Rafahel Costa dos Santos Matias 
 
 # Para testar a forca digite 'main()' no shell e pressione enter
 
