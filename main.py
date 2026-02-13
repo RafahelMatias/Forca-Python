@@ -442,5 +442,8 @@ def forca():
 
 
 
-def main():
-   forca()
+if __name__ == "__main__":
+   try:
+       forca()
+   except KeyboardInterrupt:
+       print("\nJogo encerrado.")
